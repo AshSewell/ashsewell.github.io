@@ -1,5 +1,11 @@
 .banner{
     background-color: aqua;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);    
+    min-width: 100%;
 }
 
 div.banner ul {
