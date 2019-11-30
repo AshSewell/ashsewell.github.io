@@ -2,8 +2,14 @@ div.banner ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
+}
 
 div.banner li {
     float: left;
+    padding: 0 7%;
+  
+}
+
+div.banner a {
+    font-size: 2em;
 }
