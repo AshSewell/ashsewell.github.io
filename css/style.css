@@ -1,15 +1,19 @@
+.banner{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 div.banner ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0px 10%;
 }
 
 div.banner li {
     float: left;
-    margin: 0 6.1%;
-  
+    padding: 0% 4%;
 }
 
 div.banner a {
-    font-size: 3vw;
+    font-size: 2vw;
 }
