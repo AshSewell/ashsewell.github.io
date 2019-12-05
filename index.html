@@ -1,18 +1,19 @@
 <html>
     <head>
-        <title>Home</title>
+        <title> Home </title>
         <link rel  = "icon" href = "/images/icon.png">
         <link rel  = "stylesheet" type = "text/css" href = "css/style.css">
         <link rel  = "canonical"  href = "/">
         <base href = "www.ashsewell.com.au">
+		<script src = "js/script.js"> </script>
     </head>
 
     <body>
         <div class = "banner">
-			<button> Home     </button>
-			<button> Projects </button>
-			<button> About Me </button>
-			<button> Contact  </button>
+			<button onclick = "openUrl('/')"         > Home     </button>
+			<button onclick = "openUrl('/projects/')"> Projects </button>
+			<button onclick = "openUrl('/aboutme/')" > About Me </button>
+			<button onclick = "openUrl('/contact/')" > Contact  </button>
         </div>
     </body>
 </html>
