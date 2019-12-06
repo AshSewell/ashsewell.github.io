@@ -50,14 +50,14 @@ div.banner button:hover{
 	
 	background: #434343;
 	
-	width: 43.5vw;
+	width: 43.7vw;
 	min-height: 45vw;
 	
 	border-width: 0;
-	border-bottom-width: 0.5vw;
-	border-bottom-color: black;	
-	border-right-width: 0.5vw;
-	border-right-color: black;
+	border-color: gray;
+	border-bottom-width: 0.3vw;
+	border-right-width: 0.3vw;
+
 	border-style: solid;
 	
 	padding: 1vw;
