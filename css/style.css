@@ -1,23 +1,66 @@
+
+
+body{
+	
+	background: #ACB4E7;
+    background: -webkit-linear-gradient(45deg, #B1E0B0, #ACB4E7);
+    background: linear-gradient(45deg, #B1E0B0, #ACB4E7);
+}
+
 .banner{
-    background-color: white;
+   
     position: fixed;
     z-index: 100;
     top: 1%;
 	left: 0;
+
 	display: table;
 	left: 50%;
 	transform: translateX(-50%);
+	
+	background: #000000;
+    background: -webkit-linear-gradient(45deg, #434343, #000000);
+    background: linear-gradient(45deg, #434343, #000000);
+
 }
 
 div.banner button{
+	
 	float: left;
-	padding: 1vw 3vw;
+	padding: 1vw 4vw;
 	color: white;
 	font-size: 1vw;
-	background-color: rgb(100 100 100);
+	
+	font-family: 'Poppins', sans-serif;
+	
+	background: Transparent;
+
+	outline: none;
 	border: none;
 }
 
 div.banner button:hover{
-	background-color: rgb(0 0 0);
+
+	background: rgb(100 100 100);
+}
+
+.content{
+	color: white;
+	font-family: 'Lato', sans-serif;
+	
+	background: #434343;
+	
+	width: 43.5vw;
+	min-height: 45vw;
+	
+	border-width: 0;
+	border-bottom-width: 0.5vw;
+	border-bottom-color: black;	
+	border-right-width: 0.5vw;
+	border-right-color: black;
+	border-style: solid;
+	
+	padding: 1vw;
+	
+	margin: 5% auto;
 }
