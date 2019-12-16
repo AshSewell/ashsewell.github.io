@@ -114,11 +114,29 @@ div.content b{
 	margin-left: auto;
 	margin-right: auto;
 }
+
 div.icons img{
 	width: 3vw;
 	height: 3vw;
 	padding-left: 1vw;
 	padding-right: 1vw;
+}
+
+div.content img{
+	width: 35.5vw;
+	height: 20vw;
+}
+
+div.content iframe{
+	width: 35.5vw;
+	height: 20vw;
+}
+
+.spacer{
+	width: 2vw;
+	height: 4px;
+	background: #ffffff;
+	margin: 2vw auto;
 }
 
 

@@ -2,11 +2,13 @@
     <head>
         <title>Projects</title>
         <link rel  = "icon" href = "/images/icon.png">
-        <link rel  = "stylesheet" type = "text/css" href = "../css/style.css">
+        <link rel  = "stylesheet" type = "text/css" href = "/css/style.css">
         <link rel  = "canonical"  href = "/projects">
         <base href = "www.ashsewell.com.au">
 		<script src = "/js/script.js"> </script>
     </head>
+
+    <div class = "cover"> </div> 
 
     <body>
         <div class = "banner">
@@ -14,12 +16,23 @@
 			<button onclick = "openUrl('/projects/')"> Projects </button>
 			<button onclick = "openUrl('/aboutme/')" > About Me </button>
 			<button onclick = "openUrl('/contact/')" > Contact  </button>
-        </div>
+        </div> <!-- banner -->
 		
 		<div class = "content"> 
             <h2> Projects </h2>
             <div class = "line"></div>
+            <h3> GunPUNK </h3>
             <iframe src="https://www.youtube.com/embed/PFz2xX7E0FY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>
+            <p> GunPUNK is a turn-base strategic shoot where your goal as the player is to bounce lasers off the environment to kill enemies. This project was developed using UE4 in about 15 weeks by four other students and I for our major project at AIE. I developed the core game systems in C++, and the AI using behaviour trees. I also created some materials/shaders using the material editor and HLSL.  </p>
+            <div class = "spacer"></div>
+            <h3> Medieval Ninja Saloon </h3>
+            <iframe src="https://www.youtube.com/embed/5yGxaVfiov4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>Medieval Ninja Saloon was created for a two day gamejam for students at AIE. We given the random theme of medieval ninja saloon, and this is what we came up with. This game was developed in UE4, and I created all of the games systems using blueprints.</p>
+            <div class = "spacer"></div>
+            <h3> Dawn VR </h3>
+            <img src = "/images/dawn.png"></img>
+            <p>Dawn is a VR horror game for the Occulus Go. Your aim is to defend yourself against ghosts and until morning. Dawn was developed using UE4 in about 3 weeks for a group assessment for AIE. I programmed the core game systems in C++ and using blueprints for game mechanics. </p>
+            <br>
+		</div>  <!-- content -->
     </body>
 </html>
