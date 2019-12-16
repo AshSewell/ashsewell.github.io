@@ -72,22 +72,39 @@ div.banner button:hover{
 	border-radius: 0.2vw;
 	
 	width: 43.7vw;
-
-	min-height: 85vh;
+	min-height: 80vh;
 	height: fit-content;
-
 	margin: 5% auto;
 	padding: 1vw;
-	
-
 }
 
 div.content p{
 	position: static;
 }
 
+.padding{
+	padding-left: 80px;
+}
 
+div.content b{
+	
+	width: 10px;
+	overflow: visible;
+	display: inline-block;
+}
 
+.icons{
+	width: fit-content;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.icons img{
+	width: 3vw;
+	height: 3vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
 
 
 
