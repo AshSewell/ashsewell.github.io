@@ -115,16 +115,16 @@ div.content b{
 	margin-right: auto;
 }
 
+div.content img{
+	width: 35.5vw;
+	height: 20vw;
+}
+
 div.icons img{
 	width: 3vw;
 	height: 3vw;
 	padding-left: 1vw;
 	padding-right: 1vw;
-}
-
-div.content img{
-	width: 35.5vw;
-	height: 20vw;
 }
 
 div.content iframe{
