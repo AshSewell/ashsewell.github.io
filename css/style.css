@@ -120,6 +120,12 @@ div.content img{
 	height: 20vw;
 }
 
+.margin{
+	width: 8.2vw;
+	height: 110vw;
+	float:right;
+}
+
 div.icons img{
 	width: 3vw;
 	height: 3vw;
