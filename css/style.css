@@ -44,7 +44,7 @@ body{
 div.banner button{
 	
 	float: left;
-	padding: 1vw 4vw;
+	padding: 1vw 6vw;
 	
 	border-radius: 0.2vw;
 	
@@ -125,6 +125,17 @@ div.icons img{
 	height: 3vw;
 	padding-left: 1vw;
 	padding-right: 1vw;
+}
+
+.me{
+	margin: 0 auto;
+	width: fit-content;
+}
+
+div.me img{
+	width: 20vw;
+	height: 20vw;
+	
 }
 
 div.content iframe{
