@@ -76,6 +76,8 @@ div.banner button:hover{
 	height: fit-content;
 	margin: 5% auto;
 	padding: 1vw;
+
+	overflow: hidden;
 }
 
 div.content p{
