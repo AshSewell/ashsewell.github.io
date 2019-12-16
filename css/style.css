@@ -84,8 +84,21 @@ div.content p{
 	position: static;
 }
 
+.line{
+	width: 40vw;
+	height: 1px;
+
+	margin: 1vw 0;
+
+	background: #ffffff;
+}
+
 .padding{
 	padding-left: 80px;
+}
+
+div.content h2{
+	margin: 0;
 }
 
 div.content b{
