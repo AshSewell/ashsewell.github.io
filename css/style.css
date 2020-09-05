@@ -101,6 +101,12 @@ div.content h2{
 	margin: 0;
 }
 
+div.content h1{
+	margin: 0;
+	font-size: 150%;
+}
+
+
 div.content b{
 	
 	width: 10px;
