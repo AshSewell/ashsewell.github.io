@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
-    <loc>http://www.ashsewell.com.au/</loc>
+    <loc>https://www.ashsewell.com.au/</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.ashsewell.com.au/projects</loc>
+    <loc>https://www.ashsewell.com.au/projects</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://www.ashsewell.com.au/contact</loc>
+    <loc>https://www.ashsewell.com.au/contact</loc>
     <lastmod>2020-09-05</lastmod>
     <changefreq>monthly</changefreq>
   </url>
