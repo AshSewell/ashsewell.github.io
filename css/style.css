@@ -119,6 +119,7 @@ div.content b{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	text-decoration: none;
 }
 
 div.content img{
